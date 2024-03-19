@@ -1,5 +1,6 @@
 
 Pasos a seguir
+-Ejecutar script de base de datos desde mysql.
 - Abrir el proyecto 
 -Ejecutar el proyecto
 

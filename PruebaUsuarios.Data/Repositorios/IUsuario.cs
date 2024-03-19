@@ -1,4 +1,6 @@
-﻿using PruebaUsuarios.Domain.Models.Usuario;
+﻿using MySqlX.XDevAPI.Common;
+using PruebaUsuarios.Domain.Models;
+using PruebaUsuarios.Domain.Models.Usuario;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -12,8 +14,8 @@ namespace PruebaUsuarios.Data.Repositorios
     {
         Task<IEnumerable<Usuario>> GetUsuarios();
         Task<Usuario> GetDetails(int id);
-        Task<int> InsertarUsuario(Usuario usuario);
-        Task<int> UpdateUsuario(Usuario usuario);
-        Task<bool> DeleteUsuario(Usuario usuario);
+        Task<ResultDb> InsertarUsuario(Usuario usuario);
+        Task<ResultDb> UpdateUsuario(Usuario usuario);
+        Task<ResultDb> DeleteUsuario(Usuario usuario);
     }
 }

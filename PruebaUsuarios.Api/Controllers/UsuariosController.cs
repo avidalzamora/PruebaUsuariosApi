@@ -39,7 +39,12 @@ namespace PruebaUsuarios.Api.Controllers
                 return BadRequest(ModelState);
 
             var created = await usuariorepository.InsertarUsuario(usuario);
-            var enviaCorreo = correorepo.EnviarCorreo("Usuario Creado", "Se creo el usuario: " + usuario.PrimerNombre, "correoprueba@gmail.com", "" );
+            if (created.Ok)
+            {
+                var enviado = correorepo.EnviarCorreo("Usuario Creado", "Se creo el usuario: " + usuario.PrimerNombre, "correoprueba@gmail.com", "");
+                if (!enviado)
+                    created.Resultado = created.Resultado + "; No se envio el correo de confirmación";
+            }
             return Created("Creado", created);
         }
 
@@ -52,15 +57,16 @@ namespace PruebaUsuarios.Api.Controllers
                 return BadRequest(ModelState);
 
             var created = await usuariorepository.UpdateUsuario(usuario);
-
+            //return Ok(await usuariorepository.UpdateUsuario(usuario));
             return Created("Actualizado", created);
         }
 
         [HttpDelete]
         public async Task<IActionResult> DeleteUsuario(int id)
         {
-            await usuariorepository.DeleteUsuario(new Usuario { IdUsuario = id});
-            return NoContent();
+            //await usuariorepository.DeleteUsuario(new Usuario { IdUsuario = id});
+            return Ok(await usuariorepository.DeleteUsuario(new Usuario { IdUsuario = id }));
+            //return NoContent();
         }
 
     }
