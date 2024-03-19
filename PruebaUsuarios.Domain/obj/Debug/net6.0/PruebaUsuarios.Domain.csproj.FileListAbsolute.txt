@@ -1,0 +1,11 @@
+C:\Repositorios\PruebaUsuarios\PruebaUsuarios.Domain\bin\Debug\net6.0\PruebaUsuarios.Domain.deps.json
+C:\Repositorios\PruebaUsuarios\PruebaUsuarios.Domain\bin\Debug\net6.0\PruebaUsuarios.Domain.dll
+C:\Repositorios\PruebaUsuarios\PruebaUsuarios.Domain\bin\Debug\net6.0\PruebaUsuarios.Domain.pdb
+C:\Repositorios\PruebaUsuarios\PruebaUsuarios.Domain\obj\Debug\net6.0\PruebaUsuarios.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Repositorios\PruebaUsuarios\PruebaUsuarios.Domain\obj\Debug\net6.0\PruebaUsuarios.Domain.AssemblyInfoInputs.cache
+C:\Repositorios\PruebaUsuarios\PruebaUsuarios.Domain\obj\Debug\net6.0\PruebaUsuarios.Domain.AssemblyInfo.cs
+C:\Repositorios\PruebaUsuarios\PruebaUsuarios.Domain\obj\Debug\net6.0\PruebaUsuarios.Domain.csproj.CoreCompileInputs.cache
+C:\Repositorios\PruebaUsuarios\PruebaUsuarios.Domain\obj\Debug\net6.0\PruebaUsuarios.Domain.dll
+C:\Repositorios\PruebaUsuarios\PruebaUsuarios.Domain\obj\Debug\net6.0\refint\PruebaUsuarios.Domain.dll
+C:\Repositorios\PruebaUsuarios\PruebaUsuarios.Domain\obj\Debug\net6.0\PruebaUsuarios.Domain.pdb
+C:\Repositorios\PruebaUsuarios\PruebaUsuarios.Domain\obj\Debug\net6.0\ref\PruebaUsuarios.Domain.dll

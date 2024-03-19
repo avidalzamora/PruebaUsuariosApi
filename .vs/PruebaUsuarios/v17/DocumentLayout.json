@@ -1,0 +1,151 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Repositorios\\PruebaUsuarios\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AC3E4821-56E9-421A-AAB4-C92BF31F8321}|PruebaUsuarios.Data\\PruebaUsuarios.Data.csproj|c:\\repositorios\\pruebausuarios\\pruebausuarios.data\\repositorios\\usuariorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC3E4821-56E9-421A-AAB4-C92BF31F8321}|PruebaUsuarios.Data\\PruebaUsuarios.Data.csproj|solutionrelative:pruebausuarios.data\\repositorios\\usuariorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC3E4821-56E9-421A-AAB4-C92BF31F8321}|PruebaUsuarios.Data\\PruebaUsuarios.Data.csproj|c:\\repositorios\\pruebausuarios\\pruebausuarios.data\\repositorios\\correorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC3E4821-56E9-421A-AAB4-C92BF31F8321}|PruebaUsuarios.Data\\PruebaUsuarios.Data.csproj|solutionrelative:pruebausuarios.data\\repositorios\\correorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50F1A872-EDFF-45EB-B907-0E4109C7EE0C}|PruebaUsuarios.Api\\PruebaUsuarios.Api.csproj|c:\\repositorios\\pruebausuarios\\pruebausuarios.api\\controllers\\usuarioscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50F1A872-EDFF-45EB-B907-0E4109C7EE0C}|PruebaUsuarios.Api\\PruebaUsuarios.Api.csproj|solutionrelative:pruebausuarios.api\\controllers\\usuarioscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50F1A872-EDFF-45EB-B907-0E4109C7EE0C}|PruebaUsuarios.Api\\PruebaUsuarios.Api.csproj|c:\\repositorios\\pruebausuarios\\pruebausuarios.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50F1A872-EDFF-45EB-B907-0E4109C7EE0C}|PruebaUsuarios.Api\\PruebaUsuarios.Api.csproj|solutionrelative:pruebausuarios.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60673ABE-CE25-420B-AF43-8BD24AA9DB8E}|PruebaUsuarios.Domain\\PruebaUsuarios.Domain.csproj|c:\\repositorios\\pruebausuarios\\pruebausuarios.domain\\models\\configuraciones.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{60673ABE-CE25-420B-AF43-8BD24AA9DB8E}|PruebaUsuarios.Domain\\PruebaUsuarios.Domain.csproj|solutionrelative:pruebausuarios.domain\\models\\configuraciones.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC3E4821-56E9-421A-AAB4-C92BF31F8321}|PruebaUsuarios.Data\\PruebaUsuarios.Data.csproj|c:\\repositorios\\pruebausuarios\\pruebausuarios.data\\repositorios\\iusuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC3E4821-56E9-421A-AAB4-C92BF31F8321}|PruebaUsuarios.Data\\PruebaUsuarios.Data.csproj|solutionrelative:pruebausuarios.data\\repositorios\\iusuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC3E4821-56E9-421A-AAB4-C92BF31F8321}|PruebaUsuarios.Data\\PruebaUsuarios.Data.csproj|c:\\repositorios\\pruebausuarios\\pruebausuarios.data\\pruebausuarios.data.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{AC3E4821-56E9-421A-AAB4-C92BF31F8321}|PruebaUsuarios.Data\\PruebaUsuarios.Data.csproj|solutionrelative:pruebausuarios.data\\pruebausuarios.data.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60673ABE-CE25-420B-AF43-8BD24AA9DB8E}|PruebaUsuarios.Domain\\PruebaUsuarios.Domain.csproj|c:\\repositorios\\pruebausuarios\\pruebausuarios.domain\\pruebausuarios.domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{60673ABE-CE25-420B-AF43-8BD24AA9DB8E}|PruebaUsuarios.Domain\\PruebaUsuarios.Domain.csproj|solutionrelative:pruebausuarios.domain\\pruebausuarios.domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UsuarioRepository.cs",
+              "DocumentMoniker": "C:\\Repositorios\\PruebaUsuarios\\PruebaUsuarios.Data\\Repositorios\\UsuarioRepository.cs",
+              "RelativeDocumentMoniker": "PruebaUsuarios.Data\\Repositorios\\UsuarioRepository.cs",
+              "ToolTip": "C:\\Repositorios\\PruebaUsuarios\\PruebaUsuarios.Data\\Repositorios\\UsuarioRepository.cs",
+              "RelativeToolTip": "PruebaUsuarios.Data\\Repositorios\\UsuarioRepository.cs",
+              "ViewState": "AQIAABwAAAAAAAAAAAAMwCoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-12T20:19:32.966Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Configuraciones.cs",
+              "DocumentMoniker": "C:\\Repositorios\\PruebaUsuarios\\PruebaUsuarios.Domain\\Models\\Configuraciones.cs",
+              "RelativeDocumentMoniker": "PruebaUsuarios.Domain\\Models\\Configuraciones.cs",
+              "ToolTip": "C:\\Repositorios\\PruebaUsuarios\\PruebaUsuarios.Domain\\Models\\Configuraciones.cs",
+              "RelativeToolTip": "PruebaUsuarios.Domain\\Models\\Configuraciones.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-12T20:17:50.428Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IUsuario.cs",
+              "DocumentMoniker": "C:\\Repositorios\\PruebaUsuarios\\PruebaUsuarios.Data\\Repositorios\\IUsuario.cs",
+              "RelativeDocumentMoniker": "PruebaUsuarios.Data\\Repositorios\\IUsuario.cs",
+              "ToolTip": "C:\\Repositorios\\PruebaUsuarios\\PruebaUsuarios.Data\\Repositorios\\IUsuario.cs",
+              "RelativeToolTip": "PruebaUsuarios.Data\\Repositorios\\IUsuario.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAoAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-11T23:55:24.208Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Repositorios\\PruebaUsuarios\\PruebaUsuarios.Api\\Program.cs",
+              "RelativeDocumentMoniker": "PruebaUsuarios.Api\\Program.cs",
+              "ToolTip": "C:\\Repositorios\\PruebaUsuarios\\PruebaUsuarios.Api\\Program.cs",
+              "RelativeToolTip": "PruebaUsuarios.Api\\Program.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAmwBAAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-12T00:49:05.679Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UsuariosController.cs",
+              "DocumentMoniker": "C:\\Repositorios\\PruebaUsuarios\\PruebaUsuarios.Api\\Controllers\\UsuariosController.cs",
+              "RelativeDocumentMoniker": "PruebaUsuarios.Api\\Controllers\\UsuariosController.cs",
+              "ToolTip": "C:\\Repositorios\\PruebaUsuarios\\PruebaUsuarios.Api\\Controllers\\UsuariosController.cs",
+              "RelativeToolTip": "PruebaUsuarios.Api\\Controllers\\UsuariosController.cs",
+              "ViewState": "AQIAABcAAAAAAAAAAAD4vygAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-12T00:06:12.686Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CorreoRepository.cs",
+              "DocumentMoniker": "C:\\Repositorios\\PruebaUsuarios\\PruebaUsuarios.Data\\Repositorios\\CorreoRepository.cs",
+              "RelativeDocumentMoniker": "PruebaUsuarios.Data\\Repositorios\\CorreoRepository.cs",
+              "ToolTip": "C:\\Repositorios\\PruebaUsuarios\\PruebaUsuarios.Data\\Repositorios\\CorreoRepository.cs",
+              "RelativeToolTip": "PruebaUsuarios.Data\\Repositorios\\CorreoRepository.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAIAywCMAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-12T14:32:30.197Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "PruebaUsuarios.Data.csproj",
+              "DocumentMoniker": "C:\\Repositorios\\PruebaUsuarios\\PruebaUsuarios.Data\\PruebaUsuarios.Data.csproj",
+              "RelativeDocumentMoniker": "PruebaUsuarios.Data\\PruebaUsuarios.Data.csproj",
+              "ToolTip": "C:\\Repositorios\\PruebaUsuarios\\PruebaUsuarios.Data\\PruebaUsuarios.Data.csproj",
+              "RelativeToolTip": "PruebaUsuarios.Data\\PruebaUsuarios.Data.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-03-11T23:53:36.33Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "PruebaUsuarios.Domain.csproj",
+              "DocumentMoniker": "C:\\Repositorios\\PruebaUsuarios\\PruebaUsuarios.Domain\\PruebaUsuarios.Domain.csproj",
+              "RelativeDocumentMoniker": "PruebaUsuarios.Domain\\PruebaUsuarios.Domain.csproj",
+              "ToolTip": "C:\\Repositorios\\PruebaUsuarios\\PruebaUsuarios.Domain\\PruebaUsuarios.Domain.csproj",
+              "RelativeToolTip": "PruebaUsuarios.Domain\\PruebaUsuarios.Domain.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-03-11T22:39:14.792Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

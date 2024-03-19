@@ -1,0 +1,15 @@
+C:\Repositorios\PruebaUsuarios\PruebaUsuarios.Data\bin\Debug\net6.0\PruebaUsuarios.Data.deps.json
+C:\Repositorios\PruebaUsuarios\PruebaUsuarios.Data\bin\Debug\net6.0\PruebaUsuarios.Data.dll
+C:\Repositorios\PruebaUsuarios\PruebaUsuarios.Data\bin\Debug\net6.0\PruebaUsuarios.Data.pdb
+C:\Repositorios\PruebaUsuarios\PruebaUsuarios.Data\bin\Debug\net6.0\PruebaUsuarios.Domain.dll
+C:\Repositorios\PruebaUsuarios\PruebaUsuarios.Data\bin\Debug\net6.0\PruebaUsuarios.Domain.pdb
+C:\Repositorios\PruebaUsuarios\PruebaUsuarios.Data\obj\Debug\net6.0\PruebaUsuarios.Data.csproj.AssemblyReference.cache
+C:\Repositorios\PruebaUsuarios\PruebaUsuarios.Data\obj\Debug\net6.0\PruebaUsuarios.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Repositorios\PruebaUsuarios\PruebaUsuarios.Data\obj\Debug\net6.0\PruebaUsuarios.Data.AssemblyInfoInputs.cache
+C:\Repositorios\PruebaUsuarios\PruebaUsuarios.Data\obj\Debug\net6.0\PruebaUsuarios.Data.AssemblyInfo.cs
+C:\Repositorios\PruebaUsuarios\PruebaUsuarios.Data\obj\Debug\net6.0\PruebaUsuarios.Data.csproj.CoreCompileInputs.cache
+C:\Repositorios\PruebaUsuarios\PruebaUsuarios.Data\obj\Debug\net6.0\PruebaUs.DC34C543.Up2Date
+C:\Repositorios\PruebaUsuarios\PruebaUsuarios.Data\obj\Debug\net6.0\PruebaUsuarios.Data.dll
+C:\Repositorios\PruebaUsuarios\PruebaUsuarios.Data\obj\Debug\net6.0\refint\PruebaUsuarios.Data.dll
+C:\Repositorios\PruebaUsuarios\PruebaUsuarios.Data\obj\Debug\net6.0\PruebaUsuarios.Data.pdb
+C:\Repositorios\PruebaUsuarios\PruebaUsuarios.Data\obj\Debug\net6.0\ref\PruebaUsuarios.Data.dll
